@@ -40,7 +40,7 @@ go-nats-demo/
 1. کلون کردن پروژه:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:h-agharezaei/go-nats-demo.git
 cd go-nats-demo
 ```
 
